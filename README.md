@@ -17,7 +17,7 @@
 ```yaml
 name: Hashir Yahya
 role: Network Engineer & NetOps Automation
-location: Kerala, India
+location: Bangalore, Karnataka
 education: Bachelor of Computer Applications (BCA), Calicut University (2023 - 2026)
 core_focus:
   - Enterprise Routing & Switching (Cisco IOS CLI, OSPF, VLANs, EtherChannel)
@@ -80,4 +80,4 @@ currently_learning: Network Security & Firewall Engineering (Palo Alto / Fortine
 - 💼 **LinkedIn**: [linkedin.com/in/hashiryahya](https://linkedin.com/in/hashiryahya)
 - 🌐 **Portfolio**: [hashiryahya.github.io](https://hashiryahya.github.io)
 - 📧 **Direct**: [hashiryahya6@gmail.com](mailto:hashiryahya6@gmail.com)
-- 📍 **Location**: Malappuram, Kerala, India
+- 📍 **Location**: Bangalore, Karnataka, India
