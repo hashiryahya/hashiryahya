@@ -62,8 +62,6 @@ currently_learning: Network Security & Firewall Engineering (Palo Alto / Fortine
 | Project | Focus | Stack |
 | :--- | :--- | :--- |
 | **[discord-welcome-bot](https://github.com/hashiryahya/discord-welcome-bot)** | Advanced Discord welcome & verification bot with dynamic embeds, interactive button verification, anti-raid checks, and slash commands. | `Discord.js v14` `Node.js` `JSON DB` |
-| **[Enterprise Multi-VLAN Campus Network](https://github.com/hashiryahya)** | Multi-tier campus architecture with Inter-VLAN routing, single-area OSPF, EtherChannel aggregation, and HSRP failover. | `Packet Tracer` `GNS3` `Cisco IOS` |
-| **[Python NetOps Automation Engine](https://github.com/hashiryahya)** | Multi-threaded ICMP subnet ping scanner, automated multi-device Cisco IOS config backups, and diff logging. | `Python 3` `Netmiko` `Scapy` |
 | **[Interactive Portfolio Website](https://github.com/hashiryahya)** | Official developer portfolio featuring responsive ATS CV, interactive network topologies, and dark-slate aesthetics. | `HTML5` `CSS3` `JavaScript` |
 
 ---
