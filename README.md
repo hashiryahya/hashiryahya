@@ -1,12 +1,12 @@
 <div align="center">
 
 # Hi, I'm Hashir Yahya 👋
-### Network Systems Engineer & NetOps Automation Specialist
+### Systems Developer & Audio / NetDevOps Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0D14?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://hashiryahya.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hashiryahya)
 [![Email](https://img.shields.io/badge/Email-hashiryahya6@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashiryahya6@gmail.com)
-[![Status](https://img.shields.io/badge/Status-Available%20for%20NOC%20%26%20NetEng%20Roles-34D399?style=for-the-badge)](mailto:hashiryahya6@gmail.com)
+[![Status](https://img.shields.io/badge/Status-Available%20for%20Software%20%26%20Systems%20Roles-34D399?style=for-the-badge)](mailto:hashiryahya6@gmail.com)
 
 </div>
 
@@ -16,44 +16,15 @@
 
 ```yaml
 name: Hashir Yahya
-role: Network Engineer & NetOps Automation
+role: Software & Systems Developer
 location: Bangalore, Karnataka
 education: Bachelor of Computer Applications (BCA), Calicut University (2023 - 2026)
 core_focus:
-  - Enterprise Routing & Switching (Cisco IOS CLI, OSPF, VLANs, EtherChannel)
-  - NetDevOps Automation (Python 3, Netmiko, Scapy, ICMP Subnet Diagnostics)
-  - Systems & Virtualization (Linux Ubuntu/CentOS, Windows Server AD DS, GNS3, EVE-NG)
-currently_learning: Network Security & Firewall Engineering (Palo Alto / Fortinet)
+  - Audio Digital Signal Processing & Routing (Web Audio API, setSinkId, Hardware Latency Delay Compensation)
+  - Full-Stack & Systems Tools (JavaScript ES6+, Node.js, C# .NET, Electron, Desktop Windows Applications)
+  - Bot Architecture & Automation (Discord.js v14, Event-Driven Architecture, Slash Commands)
+  - Enterprise Systems & Infrastructure (Linux Ubuntu/CentOS, Windows Server, Networking)
 ```
-
----
-
-### 🛠️ Technical Competencies
-
-#### 🌐 Networking & Routing / Switching
-![Cisco](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Routing](https://img.shields.io/badge/OSPF_%2F_Static_Routing-0F172A?style=flat-square)
-![VLANs](https://img.shields.io/badge/VLANs_%26_Trunking_(802.1Q)-0F172A?style=flat-square)
-![Redundancy](https://img.shields.io/badge/HSRP_%2F_VRRP-0F172A?style=flat-square)
-![EtherChannel](https://img.shields.io/badge/EtherChannel_(LACP%2FPAgP)-0F172A?style=flat-square)
-![STP](https://img.shields.io/badge/STP_%2F_RSTP-0F172A?style=flat-square)
-![Protocols](https://img.shields.io/badge/NAT_%2F_PAT_%2F_DHCP_%2F_DNS-0F172A?style=flat-square)
-![Security](https://img.shields.io/badge/Standard_%26_Extended_ACLs-0F172A?style=flat-square)
-
-#### 🐍 Automation & NetDevOps
-![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
-![Netmiko](https://img.shields.io/badge/Netmiko_(Paramiko)-43853D?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript_(Node.js)-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_(Ubuntu%20%7C%20CentOS)-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-#### 🔬 Simulation & Diagnostic Tools
-![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-005073?style=flat-square)
-![GNS3](https://img.shields.io/badge/GNS3-2F4F4F?style=flat-square)
-![EVE-NG](https://img.shields.io/badge/EVE--NG-333333?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004080?style=flat-square)
 
 ---
 
@@ -61,8 +32,27 @@ currently_learning: Network Security & Firewall Engineering (Palo Alto / Fortine
 
 | Project | Focus | Stack |
 | :--- | :--- | :--- |
+| **[audio-triad](https://github.com/hashiryahya/audio-triad)** | **Multi-Device Audio Splitter & Movie Sync Windows Application** routing synchronized sound across AUX (3.5mm), USB Type-C DAC, and Bluetooth with millisecond latency compensation. Standalone `.exe` executable provided! | `Web Audio API` `Node.js` `JavaScript` `C# .NET` |
 | **[discord-welcome-bot](https://github.com/hashiryahya/discord-welcome-bot)** | Advanced Discord welcome & verification bot with dynamic embeds, interactive button verification, anti-raid checks, and slash commands. | `Discord.js v14` `Node.js` `JSON DB` |
-| **[Interactive Portfolio Website](https://github.com/hashiryahya)** | Official developer portfolio featuring responsive ATS CV, interactive network topologies, and dark-slate aesthetics. | `HTML5` `CSS3` `JavaScript` |
+| **[Interactive Portfolio Website](https://github.com/hashiryahya)** | Official developer portfolio featuring responsive ATS CV, interactive architecture breakdowns, and dark-slate aesthetics. | `HTML5` `CSS3` `JavaScript` |
+
+---
+
+### 🛠️ Technical Competencies
+
+#### 💻 Software & Audio Engineering
+![JavaScript](https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Web Audio API](https://img.shields.io/badge/Web_Audio_API-FF5722?style=flat-square&logo=w3c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23_.NET-239120?style=flat-square&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white)
+
+#### 🐍 Automation & NetDevOps
+![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_(Ubuntu%20%7C%20CentOS)-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
