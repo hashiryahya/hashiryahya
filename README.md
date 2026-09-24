@@ -3,6 +3,7 @@
 # Hi, I'm Hashir Yahya 👋
 ### Systems Developer & Audio / NetDevOps Engineer
 
+[![Website](https://img.shields.io/badge/Website-hashiryahya.online-0A0D14?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://hashiryahya.online)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0D14?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://hashiryahya.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hashiryahya)
 [![Email](https://img.shields.io/badge/Email-hashiryahya6@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashiryahya6@gmail.com)
@@ -33,6 +34,7 @@ core_focus:
 | Project | Focus | Stack |
 | :--- | :--- | :--- |
 | **[audio-triad](https://github.com/hashiryahya/audio-triad)** | **Multi-Device Audio Splitter & Movie Sync Windows Application** routing synchronized sound across AUX (3.5mm), USB Type-C DAC, and Bluetooth with millisecond latency compensation. Standalone `.exe` executable provided! | `Web Audio API` `Node.js` `JavaScript` `C# .NET` |
+| **[discord-invite-tracker](https://github.com/hashiryahya/discord-invite-tracker)** | Advanced Discord invite tracking bot featuring real-time caching, vanity URL tracking, anti-alt filters, automated role rewards, and interactive leaderboards. | `Discord.js v14` `Node.js` `JSON DB` |
 | **[discord-welcome-bot](https://github.com/hashiryahya/discord-welcome-bot)** | Advanced Discord welcome & verification bot with dynamic embeds, interactive button verification, anti-raid checks, and slash commands. | `Discord.js v14` `Node.js` `JSON DB` |
 | **[Interactive Portfolio Website](https://github.com/hashiryahya)** | Official developer portfolio featuring responsive ATS CV, interactive architecture breakdowns, and dark-slate aesthetics. | `HTML5` `CSS3` `JavaScript` |
 
@@ -68,6 +70,7 @@ core_focus:
 ### 📬 Connect With Me
 
 - 💼 **LinkedIn**: [linkedin.com/in/hashiryahya](https://linkedin.com/in/hashiryahya)
-- 🌐 **Portfolio**: [hashiryahya.github.io](https://hashiryahya.github.io)
+- 🌐 **Website**: [hashiryahya.online](https://hashiryahya.online)
+- 🖥️ **Portfolio**: [hashiryahya.github.io](https://hashiryahya.github.io)
 - 📧 **Direct**: [hashiryahya6@gmail.com](mailto:hashiryahya6@gmail.com)
 - 📍 **Location**: Bangalore, Karnataka, India
